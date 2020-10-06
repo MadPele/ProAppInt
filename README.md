@@ -1,2 +1,2 @@
 # ProAppInt
-Still testing
+Still learning...
